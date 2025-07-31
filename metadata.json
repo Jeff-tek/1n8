@@ -1,0 +1,6 @@
+{
+  "name": "N8N Interactive Course Generator",
+  "description": "An interactive, AI-powered course designed to take learners from beginner to expert in N8N automation. The application generates lessons on-demand, complete with visual workflow diagrams, hands-on exercises, code examples, and quizzes.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
